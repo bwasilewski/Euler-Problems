@@ -1,0 +1,11 @@
+{
+  "name": "problem-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "benwasilewski@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
